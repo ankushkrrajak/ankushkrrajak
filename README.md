@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @ankushkrrajak
-- 👀 I’m interested in to know something new
-- 🌱 I’m currently learning in Alliant Academy For IIT
-- 😄 Pronouns: Him ✨
-- ⚡ Fun fact: From a looser to a legend
+- 👀 I’m interested in learn something new 
 
 <!---
 ankushkrrajak/ankushkrrajak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
